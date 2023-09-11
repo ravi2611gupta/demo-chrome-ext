@@ -1,10 +1,10 @@
 {
-  "name": "Demo Chrome Ext",
-  "description": "Open your go to tabs in one click",
+  "name": "Demo Chrome Extension",
+  "description": "A simple Chrome extension built with React.",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
-    "default_title": "Demo Chrome Ext",
+    "default_title": "Demo Chrome Extension",
     "default_popup": "index.html",
     "default_icon": {
       "16": "logo192.png",
